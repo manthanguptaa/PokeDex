@@ -1,6 +1,10 @@
 # poke_dex
 
 A new Flutter project.
+This is a basic app where I have tried mimicking PokéDex from a cartoon I used to watch in my childhood "Pokemon".
+![home screen](https://user-images.githubusercontent.com/42516515/60394507-4557b200-9b43-11e9-8165-175a32fbb78a.PNG)
+![2nd screen](https://user-images.githubusercontent.com/42516515/60394513-61f3ea00-9b43-11e9-938c-1acf0bcdc3a8.PNG)
+![Capture](https://user-images.githubusercontent.com/42516515/60394516-6cae7f00-9b43-11e9-837e-c5c825476b75.PNG)
 
 ## Getting Started
 
